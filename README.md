@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Almeida 👋
 
 - 🔭 Hoje trabalho como Engenheiro de Software na UOL
-- 🌱 Estudando DevOps
+- 🌱 Estudando DevOps, Node e Spring Boot
 
 ##
 
