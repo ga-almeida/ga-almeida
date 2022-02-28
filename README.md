@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Almeida 👋
 
-- 🔭 Hoje trabalho como Engenheiro de Software na UOL
-- 🌱 Estudando DevOps, Node e Spring Boot
+- 🔭 Hoje trabalho como Backend Software Engineer na Will Bank
+- 🌱 Focado nas techs Node e Spring Boot
 
 ##
 
